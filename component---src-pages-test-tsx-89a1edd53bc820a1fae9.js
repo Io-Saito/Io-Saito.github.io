@@ -1,2 +1,0 @@
-"use strict";(self.webpackChunkio_s_portfolio=self.webpackChunkio_s_portfolio||[]).push([[633],{6216:function(e,t,l){l.r(t);var n=l(7294);t.default=function(){return n.createElement("main",null,n.createElement("title",null,"Test Page"),n.createElement("h1",null,"💙💚💛💜"))}}}]);
-//# sourceMappingURL=component---src-pages-test-tsx-89a1edd53bc820a1fae9.js.map
